@@ -2,7 +2,7 @@
 
 ## About Me
 - 2nd Year B.Tech Student at **MIT ADT University, Pune**
-- CGPA: **8.7**
+- CGPA: **8.9**
 - Currently learning **Artificial Intelligence & Machine Learning**
 - Passionate about **Python, Data Analysis & Machine Learning**
 - Looking for **AIML Internship opportunities**
